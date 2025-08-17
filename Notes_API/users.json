@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "username": "admin",
+    "hashed_password": "$2b$12$g3L/bj4.zq9gy2Oyluz4pOFLb/2Kuphd1stjtPOLNEhfw/bAI29xC"
+  },
+  "lateef": {
+    "username": "lateef",
+    "password": "$2b$12$nVWYIagFA0ZhqLCfvmaApeBBflr37yPVktKL8xrpPDRN4uPODAXMu"
+  }
+}
